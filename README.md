@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Andres 👋
 
-<!--
-**Andresjtp/Andresjtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Computer Science at Florida International University (FIU) — expected to graduate December 2027
 
-Here are some ideas to get you started:
+💼 Part-Time Junior Data & AI Developer at Habber Tec specializing in Data Pipelines and AI implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in machine learning, Data, and AI — working toward the frontier of innovation rather than purely application-layer engineering
+
+🤝 I enjoy client-facing, collaborative roles where engineering meets people — bridging technical depth with communication
+
+🛠️ Skills & Tools
+Programming Languages: Pyhton, Java
+Libraries: Pandas, NumPy, LangGraph
+AI/Data Engineering: RAG & GraphRAG pipelines, Neo4j
+Data Infrastructure: Kafka, Spark, Apache Iceberg
+Version Control: Git, GitHub
